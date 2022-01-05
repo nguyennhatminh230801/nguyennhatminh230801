@@ -9,6 +9,9 @@
 
 ![](https://komarev.com/ghpvc/?username=nguyennhatminh230801&color=green)
 
+- I'm Junior(3<sup>rd</sup>) year) student at Hanoi University Of Industry, and my major is Software Engineering
+- Currently, I'm focus on learning Mobile Development (Android apps).
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyennhatminh230801&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennhatminh230801&theme=radical)
 
