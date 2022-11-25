@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nguyennhatminh230801&color=green)
 
-- I'm Junior(3<sup>rd</sup>) year student at Hanoi University Of Industry, and my major is Software Engineering
+- I'm Senior(4<sup>th</sup> year) student at Hanoi University Of Industry, and my major is Software Engineering
 - Now, I'm working as a Mobile Developer (Android apps).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyennhatminh230801&show_icons=true&theme=radical)
