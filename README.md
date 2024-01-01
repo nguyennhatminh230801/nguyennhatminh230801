@@ -9,8 +9,8 @@
 
 ![](https://komarev.com/ghpvc/?username=nguyennhatminh230801&color=green)
 
-- I'm Senior(4<sup>th</sup> year) student at Hanoi University Of Industry, and my major is Software Engineering
-- Now, I'm working as a Mobile Developer (Android apps).
+- I'm graduted at Hanoi University Of Industry, and my major is Software Engineering.
+- Now, I have 1.5 years experience as a Native Android Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyennhatminh230801&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennhatminh230801&theme=radical)
