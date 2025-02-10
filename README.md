@@ -10,7 +10,7 @@
 ![](https://komarev.com/ghpvc/?username=nguyennhatminh230801&color=green)
 
 - I'm graduted at Hanoi University Of Industry, and my major is Software Engineering.
-- Now, I have 2 years experience as a Native Android Developer.
+- Now, I have 2,5 years experience as a Native Android Developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyennhatminh230801&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyennhatminh230801&theme=radical)
